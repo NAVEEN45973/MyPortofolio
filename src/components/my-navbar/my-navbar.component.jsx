@@ -11,6 +11,7 @@ const MyNavbar = () => {
         fixed="top"
         variant="Black"
         expand="md"
+        bg="light"
         className="animate-navbar nav-theme justify-content-between"
       >
         <div>
